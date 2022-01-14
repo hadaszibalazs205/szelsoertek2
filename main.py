@@ -13,4 +13,4 @@ while True:
         lista.sort(key = int)
         print(lista)
         break
-print("a legnagyobb szám: ", max(lista), "a legkissebb szám a :", min(lista),"a lista pedig: ", lista)
+print("a legnagyobb szám: ", max(lista), "a legkissebb szám a", min(lista),"a lista pedig: ", lista)
